@@ -1,0 +1,30 @@
+BCSymbolMap Version: 2.0
+Apple clang version 12.0.0 (clang-1200.0.32.29)
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.4.sdk
+iPhoneOS14.4.sdk
+/Users/monster/Library/Developer/Xcode/DerivedData/MyFramework-efoigkbfznaztocdckanoqfryfft/Build/Intermediates.noindex/ArchiveIntermediates/MyFramework/IntermediateBuildFilesPath/MyFramework.build/Release-iphoneos/MyFramework.build/DerivedSources/MyFramework_vers.c
+/Users/monster/Desktop/0/MyFramework
+__METACLASS_DATA__TtC11MyFramework9Arifmetic
+__DATA__TtC11MyFramework9Arifmetic
+_$s11MyFrameworkMXM
+_$s11MyFramework9ArifmeticCMf
+_symbolic _____ 11MyFramework9ArifmeticC
+_$s11MyFramework9ArifmeticCMF
+__swift_FORCE_LOAD_$_swiftFoundation_$_MyFramework
+__swift_FORCE_LOAD_$_swiftObjectiveC_$_MyFramework
+__swift_FORCE_LOAD_$_swiftDarwin_$_MyFramework
+__swift_FORCE_LOAD_$_swiftCoreFoundation_$_MyFramework
+__swift_FORCE_LOAD_$_swiftDispatch_$_MyFramework
+__swift_FORCE_LOAD_$_swiftCoreGraphics_$_MyFramework
+___swift_reflection_version
+_objc_classes
+Apple clang version 12.0.0 (clang-1200.0.32.28)
+<swift-imported-modules>
+Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)
+/Users/monster/Desktop/0/MyFramework/MyFramework/Arifmetic.swift
+$s11MyFramework9ArifmeticCMa
+<compiler-generated>
+deinit
+sum
+Swift runtime failure: arithmetic overflow
+init
